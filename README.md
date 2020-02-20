@@ -1,3 +1,10 @@
-# ML/DL resorces
-## Welcome to ML/DL resources repo
-I am creating this repo to keep organized the resources for myself and other geeks. I sometimes feel that most of the articles are not sufficient to get a complete grasp on the particular topic. In that case a reference article or blog can be helpful.
+# ML/DL Resorces
+
+## Welcome to this repository
+
+
+This Repo is created with te sole purpose of gathering all the useful resources related to machine/deep learning at one place, starting from begineer to advance level. Feel free to go through this repo, any contribution and suggestion regarding any topic is welcomed.
+
+We also have a **blog section** which features some intresting articles related to machine/deep learning and also some recent developments in this feild, Feel free ro check it out.
+
+# Happy Coding..!!
