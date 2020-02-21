@@ -17,9 +17,11 @@ The above link contain calculation to calculate word vector using TFIDF, Skip Gr
 
 ## Resources related to RNN's LSTM and GRU's
 
-1. [Vanishing Gradient Problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
+1.[Introduction to Sequence Modelling(Analytics Vidhya)](https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/)
 
-2. [Exploding Gradient in RNN's](https://medium.com/learn-love-ai/the-curious-case-of-the-vanishing-exploding-gradient-bf58ec6822eb)
+2. [Vanishing Gradient Problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
+
+3. [Exploding Gradient in RNN's](https://medium.com/learn-love-ai/the-curious-case-of-the-vanishing-exploding-gradient-bf58ec6822eb)
 
 
 
