@@ -2,7 +2,7 @@
 
 Some Useful resources to get a better understanding of NLP
 
-## Resources related Word Vectors
+## Resources related to Word Vectors and Embeddings
 1. [Analytic Vidhya](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 The above link contain calculation to calculate word vector using TFIDF, Skip Gram, Bag of words
 
@@ -13,6 +13,10 @@ The above link contain calculation to calculate word vector using TFIDF, Skip Gr
 4. [Comprehensive Guide on t-SNE algorithm](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
 
 5. [Introduction to Word Embedding](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+
+6. [Vanishing Gradient Problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
+
+7. [Exploding Gradient in RNN's](https://medium.com/learn-love-ai/the-curious-case-of-the-vanishing-exploding-gradient-bf58ec6822eb)
 
 
 
