@@ -23,9 +23,13 @@ The above link contain calculation to calculate word vector using TFIDF, Skip Gr
 
 3. [Exploding Gradient in RNN's](https://medium.com/learn-love-ai/the-curious-case-of-the-vanishing-exploding-gradient-bf58ec6822eb)
 
-4.[An OverView Of Recurrent Neural Network(RNN's)](https://www.youtube.com/watch?v=LHXXI4-IEns)
+4. [An OverView Of Recurrent Neural Network(RNN's)](https://www.youtube.com/watch?v=LHXXI4-IEns)
 
-5. [Introduction to LSTM'S and GRU's](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+
+5. [LSTM And GRU an OverView](https://www.youtube.com/watch?v=8HyCNIVRbSU&feature=emb_logo)  
+
+6. [Introduction to LSTM'S and GRU's](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+
 
 
 
