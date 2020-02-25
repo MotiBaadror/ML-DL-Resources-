@@ -30,6 +30,10 @@ Some Useful resources to get a better understanding of NLP
 
 6. [Introduction to LSTM'S and GRU's](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
+7. [How LSTM networks solve the problem of vanishing gradients](https://medium.com/datadriveninvestor/how-do-lstm-networks-solve-the-problem-of-vanishing-gradients-a6784971a577)
+
+8. [8 Excellent Pretrained Models to get you Started with Natural Language Processing (NLP)](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
+
 
 
 
