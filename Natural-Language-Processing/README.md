@@ -34,6 +34,10 @@ Some Useful resources to get a better understanding of NLP
 
 8. [8 Excellent Pretrained Models to get you Started with Natural Language Processing (NLP)](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
 
+9. [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+
+
+
 
 
 
