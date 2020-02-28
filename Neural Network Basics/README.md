@@ -1,10 +1,13 @@
 # ML/DL Resorces
 
-## Welcome to this repository
+## Welcome to Neural Network Basics Section
+
+**Some resources to understand the basics of neural networks**
+
+-[What is Neural Network ?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+-[An Introductory Guide to Deep Learning and Neural Networks](https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/)
+
+-[Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y&t=77s)
 
 
-This Repo is created with te sole purpose of gathering all the useful resources related to machine/deep learning all at one place, starting from begineer to advance level. Feel free to go through this repo, any contribution and suggestion regarding any topic is welcomed.
-
-We also have a **blog section** which features some intresting articles related to machine/deep learning and also some recent developments in this feild, Feel free ro check it out.
-
-# Happy Coding..!!
