@@ -12,4 +12,6 @@
 
 -[What is Bias and Variance?](https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86)
 
+-[The mathematics behind Backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
 
