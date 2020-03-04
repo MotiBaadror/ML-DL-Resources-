@@ -39,6 +39,8 @@ Some Useful resources to get a better understanding of NLP
 
 10. [Text Cleaning Methods for Natural Language Processing](https://towardsdatascience.com/text-cleaning-methods-for-natural-language-processing-f2fc1796e8c7)
 
+11. [What is  Multivariate Time Series Forecasting?](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/)
+
 
 
 
