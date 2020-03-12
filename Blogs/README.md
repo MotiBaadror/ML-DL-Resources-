@@ -13,3 +13,5 @@
 -[How to  Deploy Machine Learning Models Using Flask](https://www.kdnuggets.com/2019/10/easily-deploy-machine-learning-models-using-flask.html)
 
 -[Exploratory Data Analysis Using Panda’s Profiling](https://towardsdatascience.com/eda-using-pandas-profiling-3291d6e856bb)
+
+-[The Frameworks that Google, DeepMind, Microsoft and Uber Use to Train Deep Learning Models at Scale](https://towardsdatascience.com/the-frameworks-that-google-deepmind-microsoft-and-uber-use-to-train-deep-learning-models-at-scale-30be6295725)
