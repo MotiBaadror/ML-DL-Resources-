@@ -14,4 +14,6 @@
 
 -[The mathematics behind Backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
+-[Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning?utm_campaign=WebsiteCoursesDLSBottomButton&utm_medium=institutions&utm_source=deeplearningai)
+
 
