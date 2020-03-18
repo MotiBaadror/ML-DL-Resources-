@@ -41,6 +41,8 @@ Some Useful resources to get a better understanding of NLP
 
 - [What is  Multivariate Time Series Forecasting?](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/)
 
+- [ Text Generation with Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 
 
 
