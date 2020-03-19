@@ -17,3 +17,5 @@
 -[The Frameworks that Google, DeepMind, Microsoft and Uber Use to Train Deep Learning Models at Scale](https://towardsdatascience.com/the-frameworks-that-google-deepmind-microsoft-and-uber-use-to-train-deep-learning-models-at-scale-30be6295725)
 
 -[A gentle guide to deep learning object detection](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
+
+-[A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
