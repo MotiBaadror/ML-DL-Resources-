@@ -19,3 +19,5 @@
 -[A gentle guide to deep learning object detection](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
 
 -[A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
+
+-[Flask API for Multi-class classification using Keras](https://towardsdatascience.com/flask-api-for-multi-class-classification-using-keras-4c9c7e85b5f2)
