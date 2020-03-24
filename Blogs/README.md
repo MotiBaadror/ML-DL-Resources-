@@ -23,3 +23,5 @@
 -[Flask API for Multi-class classification using Keras](https://towardsdatascience.com/flask-api-for-multi-class-classification-using-keras-4c9c7e85b5f2)
 
 -[Google Colaboratory and Kaggle datasets](https://medium.com/@saedhussain/google-colaboratory-and-kaggle-datasets-b57a83eb6ef8)
+
+-[A New Python Package: How to detect an Anomaly?](https://towardsdatascience.com/a-new-python-package-how-to-detect-an-anomaly-fcff730778a3)
