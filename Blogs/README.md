@@ -27,3 +27,5 @@
 -[A New Python Package: How to detect an Anomaly?](https://towardsdatascience.com/a-new-python-package-how-to-detect-an-anomaly-fcff730778a3)
 
 -[COCO Dataset Description(for annotations file)](https://www.youtube.com/watch?time_continue=15&v=h6s61a_pqfM&feature=emb_logo)
+
+-[Best Python Libraries for Machine Learning and Deep Learning](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c)
