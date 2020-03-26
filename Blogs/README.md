@@ -25,3 +25,5 @@
 -[Google Colaboratory and Kaggle datasets](https://medium.com/@saedhussain/google-colaboratory-and-kaggle-datasets-b57a83eb6ef8)
 
 -[A New Python Package: How to detect an Anomaly?](https://towardsdatascience.com/a-new-python-package-how-to-detect-an-anomaly-fcff730778a3)
+
+-[COCO Dataset Description(for annotations file)](https://www.youtube.com/watch?time_continue=15&v=h6s61a_pqfM&feature=emb_logo)
