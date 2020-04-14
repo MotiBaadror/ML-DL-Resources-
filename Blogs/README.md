@@ -24,11 +24,11 @@
 
 - [Google Colaboratory and Kaggle datasets](https://medium.com/@saedhussain/google-colaboratory-and-kaggle-datasets-b57a83eb6ef8)
 
--[A New Python Package: How to detect an Anomaly?](https://towardsdatascience.com/a-new-python-package-how-to-detect-an-anomaly-fcff730778a3)
+- [A New Python Package: How to detect an Anomaly?](https://towardsdatascience.com/a-new-python-package-how-to-detect-an-anomaly-fcff730778a3)
 
--[COCO Dataset Description(for annotations file)](https://www.youtube.com/watch?time_continue=15&v=h6s61a_pqfM&feature=emb_logo)
+- [COCO Dataset Description(for annotations file)](https://www.youtube.com/watch?time_continue=15&v=h6s61a_pqfM&feature=emb_logo)
 
--[Best Python Libraries for Machine Learning and Deep Learning](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c)
+- [Best Python Libraries for Machine Learning and Deep Learning](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c)
 
 - [Quantization in Deep Learning](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 
