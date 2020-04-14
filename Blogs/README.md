@@ -31,3 +31,5 @@
 -[Best Python Libraries for Machine Learning and Deep Learning](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c)
 
 - [Quantization in Deep Learning](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
+
+- [PyTorch 1.3 — What’s new?](https://towardsdatascience.com/pytorch-v1-3-whats-new-79595c14971e)
