@@ -33,3 +33,5 @@
 - [Quantization in Deep Learning](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 
 - [PyTorch 1.3 — What’s new?](https://towardsdatascience.com/pytorch-v1-3-whats-new-79595c14971e)
+
+- [How to build an online portfolio as a beginner in Data Science.](https://towardsdatascience.com/how-to-build-an-online-portfolio-as-a-beginner-in-data-science-12b7a345a561)
