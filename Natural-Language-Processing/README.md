@@ -43,6 +43,8 @@ Some Useful resources to get a better understanding of NLP
 
 - [ Text Generation with Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+- [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
+
 
 
 
