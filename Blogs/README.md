@@ -12,7 +12,7 @@
 
 - [How to  Deploy Machine Learning Models Using Flask](https://www.kdnuggets.com/2019/10/easily-deploy-machine-learning-models-using-flask.html)
 
--[Exploratory Data Analysis Using Panda’s Profiling](https://towardsdatascience.com/eda-using-pandas-profiling-3291d6e856bb)
+- [Exploratory Data Analysis Using Panda’s Profiling](https://towardsdatascience.com/eda-using-pandas-profiling-3291d6e856bb)
 
 - [The Frameworks that Google, DeepMind, Microsoft and Uber Use to Train Deep Learning Models at Scale](https://towardsdatascience.com/the-frameworks-that-google-deepmind-microsoft-and-uber-use-to-train-deep-learning-models-at-scale-30be6295725)
 
@@ -33,3 +33,7 @@
 - [Quantization in Deep Learning](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 
 - [PyTorch 1.3 — What’s new?](https://towardsdatascience.com/pytorch-v1-3-whats-new-79595c14971e)
+
+- [How to build an online portfolio as a beginner in Data Science.](https://towardsdatascience.com/how-to-build-an-online-portfolio-as-a-beginner-in-data-science-12b7a345a561)
+
+- [[Keras] A thing you should know about Keras if you plan to train a deep learning model on a large dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2)
