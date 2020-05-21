@@ -37,3 +37,5 @@
 - [How to build an online portfolio as a beginner in Data Science.](https://towardsdatascience.com/how-to-build-an-online-portfolio-as-a-beginner-in-data-science-12b7a345a561)
 
 - [[Keras] A thing you should know about Keras if you plan to train a deep learning model on a large dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2)
+
+- [Best Python practices for Data Scientists](https://towardsdatascience.com/best-python-practices-for-data-scientists-11056edda8c7)
