@@ -40,4 +40,4 @@
 
 - [Best Python practices for Data Scientists](https://towardsdatascience.com/best-python-practices-for-data-scientists-11056edda8c7)
 
-- [ML REsurces And Algorithms](https://madewithml.com/topics/)
+- [ML Resources And Algorithms](https://madewithml.com/topics/)
