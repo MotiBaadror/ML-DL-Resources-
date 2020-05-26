@@ -7,4 +7,4 @@ This Repo is created with te sole purpose of gathering all the useful resources 
 
 We also have a **blog section** which features some intresting articles related to machine/deep learning and also some recent developments in this feild, Feel free ro check it out.
 
-# Happy Coding..!!
+# Happy Coding...!!
