@@ -41,3 +41,5 @@
 - [Best Python practices for Data Scientists](https://towardsdatascience.com/best-python-practices-for-data-scientists-11056edda8c7)
 
 - [ML Resources And Algorithms](https://madewithml.com/topics/)
+
+- [Giving Some Tips For Data Science Interviews](https://towardsdatascience.com/giving-some-tips-for-data-science-interviews-after-interviewing-60-candidates-at-expedia-395fff7e073b)
