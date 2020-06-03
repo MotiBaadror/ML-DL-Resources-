@@ -43,3 +43,5 @@
 - [ML Resources And Algorithms](https://madewithml.com/topics/)
 
 - [Giving Some Tips For Data Science Interviews](https://towardsdatascience.com/giving-some-tips-for-data-science-interviews-after-interviewing-60-candidates-at-expedia-395fff7e073b)
+
+- [Top 7 Machine Learning Github Repositories for Data Scientists](https://www.analyticsvidhya.com/blog/2019/06/top-7-machine-learning-github-repositories-data-scientists/)
