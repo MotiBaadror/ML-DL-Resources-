@@ -16,3 +16,5 @@ This link will cover the basic opencv, then cnn, transfer learning and custom mo
 
 - [A gentle guide to deep learning object detection](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
 
+- [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
+
