@@ -16,10 +16,6 @@
 
 - [The Frameworks that Google, DeepMind, Microsoft and Uber Use to Train Deep Learning Models at Scale](https://towardsdatascience.com/the-frameworks-that-google-deepmind-microsoft-and-uber-use-to-train-deep-learning-models-at-scale-30be6295725)
 
-
-
-- [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
-
 - [Flask API for Multi-class classification using Keras](https://towardsdatascience.com/flask-api-for-multi-class-classification-using-keras-4c9c7e85b5f2)
 
 - [Google Colaboratory and Kaggle datasets](https://medium.com/@saedhussain/google-colaboratory-and-kaggle-datasets-b57a83eb6ef8)
