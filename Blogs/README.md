@@ -41,3 +41,5 @@
 - [Giving Some Tips For Data Science Interviews](https://towardsdatascience.com/giving-some-tips-for-data-science-interviews-after-interviewing-60-candidates-at-expedia-395fff7e073b)
 
 - [Top 7 Machine Learning Github Repositories for Data Scientists](https://www.analyticsvidhya.com/blog/2019/06/top-7-machine-learning-github-repositories-data-scientists/)
+
+- [How do I know I am running Keras model on gpu?](https://medium.com/@kegui/how-do-i-know-i-am-running-keras-model-on-gpu-a9cdcc24f986#:~:text=you%20can%20run%20keras%20models,will%20have%20to%20check%20first.&text=You%20need%20to%20add%20the,core%20cpu%2C%20and%20a%20gpu.)
