@@ -12,6 +12,8 @@ This link will cover the basic opencv, then cnn, transfer learning and custom mo
 
 - [A Comprehensive Tutorial to learn Convolutional Neural Networks from Scratch](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/)
 
+- [Lode's Computer Graphics Tutorial(For a deeper understanding of working of convolutions and pooling)](Lode's Computer Graphics Tutorial)
+
 - [Convolutional Neural Network Visualization](https://www.youtube.com/watch?v=f0t-OCG79-U)
 
 - [A gentle guide to deep learning object detection](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
