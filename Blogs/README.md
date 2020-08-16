@@ -51,3 +51,5 @@
 - [Basic Git Commands](https://github.com/joshnh/Git-Commands)
 
 - [How a simple mix of object-oriented programming can sharpen your deep learning prototype](https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd)
+
+- [How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
