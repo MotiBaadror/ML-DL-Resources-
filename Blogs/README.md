@@ -47,3 +47,5 @@
 - [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/#course-content)
+
+- [Basic Git Commands](https://github.com/joshnh/Git-Commands)
