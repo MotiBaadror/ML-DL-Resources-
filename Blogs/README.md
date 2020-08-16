@@ -49,3 +49,5 @@
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/#course-content)
 
 - [Basic Git Commands](https://github.com/joshnh/Git-Commands)
+
+- [How a simple mix of object-oriented programming can sharpen your deep learning prototype](https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd)
