@@ -55,3 +55,5 @@
 - [How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
 
 - [S.O.L.I.D Principles explained in Python with examples.](https://medium.com/@dorela/s-o-l-i-d-principles-explained-in-python-with-examples-3332520b90ff#:~:text=Liskov%20Substitution%20Principle,the%20expected%20behavior%20at%20runtime.)
+
+- [Clean Machine Learning Code](https://towardsdatascience.com/clean-machine-learning-code-bd32bd0e9212)
