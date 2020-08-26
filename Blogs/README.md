@@ -53,3 +53,5 @@
 - [How a simple mix of object-oriented programming can sharpen your deep learning prototype](https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd)
 
 - [How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
+
+- [S.O.L.I.D Principles explained in Python with examples.](https://medium.com/@dorela/s-o-l-i-d-principles-explained-in-python-with-examples-3332520b90ff#:~:text=Liskov%20Substitution%20Principle,the%20expected%20behavior%20at%20runtime.)
