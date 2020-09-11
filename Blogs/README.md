@@ -57,3 +57,5 @@
 - [S.O.L.I.D Principles explained in Python with examples.](https://medium.com/@dorela/s-o-l-i-d-principles-explained-in-python-with-examples-3332520b90ff#:~:text=Liskov%20Substitution%20Principle,the%20expected%20behavior%20at%20runtime.)
 
 - [Clean Machine Learning Code](https://towardsdatascience.com/clean-machine-learning-code-bd32bd0e9212)
+
+- [Understanding 1D and 3D Convolution Neural Network | Keras](https://towardsdatascience.com/understanding-1d-and-3d-convolution-neural-network-keras-9d8f76e29610)
